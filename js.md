@@ -179,3 +179,108 @@ Memory leaks kab aaye aur kaise fix kiya?
 API error handling aur retries kaise likhe?
 
 Ye sab share karne ki ability honi chahiye.
+-------------------------------------------------------------------------------------------------------
+🔹 Core JavaScript (Fundamentals)
+What are the different data types in JavaScript?
+
+What is the difference between var, let, and const?
+
+What are primitive and reference types?
+
+Explain type coercion and equality (== vs ===).
+
+What is hoisting in JavaScript?
+
+What are closures and how do they work?
+
+What is the scope of a variable in JavaScript?
+
+What are truthy and falsy values?
+
+What is the difference between null and undefined?
+
+Explain the event loop and the call stack.
+
+🔹 Functions & Objects
+What is the difference between a function declaration and a function expression?
+
+What is a higher-order function?
+
+What is the purpose of .bind(), .call(), and .apply()?
+
+What are arrow functions and how are they different?
+
+How does this work in JavaScript?
+
+What is object destructuring and array destructuring?
+
+How does prototypal inheritance work in JavaScript?
+
+🔹 Asynchronous JavaScript
+What are Promises and how do they work?
+
+How is async/await different from Promises?
+
+What is the difference between microtasks and macrotasks (in the event loop)?
+
+What is callback hell and how can you avoid it?
+
+🔹 ES6+ Features
+What are template literals?
+
+What are default parameters in functions?
+
+Explain the spread (...) and rest (...) operators.
+
+What are modules in JavaScript? How do import and export work?
+
+🔹 DOM & Browser APIs
+How does event delegation work in the DOM?
+
+What is the difference between e.target and e.currentTarget?
+
+How do you prevent default behavior in an event?
+
+What is the difference between localStorage, sessionStorage, and cookies?
+
+What are the different ways to select elements in the DOM?
+
+🔹 Common Coding Patterns & Techniques
+What is debouncing and throttling?
+
+How do you deep clone an object?
+
+How do you implement memoization?
+
+What are pure functions and why are they useful?
+
+What is currying in JavaScript?
+
+🔹 Testing and Tools
+What is the difference between unit tests, integration tests, and end-to-end tests?
+
+What is Jest or Mocha, and how do you use it?
+
+How do you mock a function or module in tests?
+
+🔹 Advanced Topics
+What are generators and iterators in JavaScript?
+
+What is the difference between Object.freeze() and Object.seal()?
+
+What is tail call optimization?
+
+What are WeakMap and WeakSet?
+
+How does garbage collection work in JavaScript?
+
+What is a service worker and how does it relate to PWAs (Progressive Web Apps)?
+
+✅ BONUS: Behavioral & Conceptual
+How do you optimize the performance of a JavaScript application?
+
+How do you handle error handling in async functions?
+
+How would you implement lazy loading in JavaScript?
+
+How would you debug a performance issue in your front-end code?
